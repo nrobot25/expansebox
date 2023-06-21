@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<body style="background-color:powderblue;">
+
+<h1>This is a test heading</h1>
+<h2>Italian Trulli</h2>
+<img src="pic_trulli.jpg" alt="Italian Trullti" style="width:100%">
+<p>This is another paragraph.</p>
+
+</body>
+</html>
